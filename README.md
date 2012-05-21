@@ -21,7 +21,7 @@ Since the MPVolumeView is a custom class, we are not able to modify this class e
 What is it and usage?
 --------------
 
-The CMVolumeSlider is a small wrapper converting the MPVolumeView to a normal UISlider, which can be themes quite easily.
+The CMVolumeSlider is a small wrapper converting the MPVolumeView to a normal UISlider, which can be themed quite easily.
 It allows us to add a normal UISlider on our application that will take care of the volume control.
 Simply add the class to your project and add a CMVolumeSlider to an existing view (via code or InterfaceBuilder) and done.
 
